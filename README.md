@@ -13,3 +13,5 @@ Hiển thị:
 ### 2. Shortcode
 
 Sử dụng:
+
+[lp_total_stats]
